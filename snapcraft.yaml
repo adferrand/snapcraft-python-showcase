@@ -1,6 +1,8 @@
 name: showcase
-version: 1.0
+version: '1.0'
 base: core
+description: 'Showcase'
+summary: 'Showcase'
 
 parts:
   mod1:
