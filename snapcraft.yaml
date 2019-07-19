@@ -1,5 +1,6 @@
 name: showcase
 version: 1.0
+base: core
 
 parts:
   mod1:
