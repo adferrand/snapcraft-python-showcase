@@ -7,8 +7,10 @@ summary: 'Showcase'
 parts:
   mod1:
     plugin: python
+    source: .
     source-subdir: mod1
   mod2:
     plugin: python
+    source: .
     source-subdir: mod2
     after: [mod1]
